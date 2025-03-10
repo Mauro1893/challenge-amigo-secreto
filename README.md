@@ -33,19 +33,32 @@ cd challenge-amigo-secreto
 
 
 #Estructura del Proyecto 📂
+
 challenge-amigo-secreto/
+
 │
+
 ├── assets/
+
 │   └── readme/
+
 │       ├── funcion1.png
+
 │       ├── funcion2.png
+
 │       ├── funcion3.png
+
 │       └── funcion4.png
+
 │
+
 ├── index.html
+
 ├── styles.css
+
 └── script.js
 
 #Licencia 📜 
+
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
 Con estos cambios, tu README será más completo y útil tanto para usuarios como para desarrolladores que quieran contribuir.
